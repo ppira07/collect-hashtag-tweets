@@ -1,0 +1,17 @@
+{
+  "name": "collect-hashtag-tweets",
+  "version": "1.0.0",
+  "description": "collect hashtag tweet and get image url, then post them to slack",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@slack/webhook": "^5.0.3",
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
